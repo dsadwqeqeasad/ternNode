@@ -29,7 +29,7 @@ A bash script for managing T3rn executor nodes with easy installation and mainte
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/dsadwqeqeasad/ternNode/main/t3rnNodeManager.sh
+wget https://raw.githubusercontent.com/dsadwqeqeasad/ternNode/main/ternNodeManager.sh
 chmod +x ternNodeManager.sh
 ```
 
